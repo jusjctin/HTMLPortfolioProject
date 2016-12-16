@@ -35,6 +35,7 @@ body {
 
 h1, h2, h3, h4 {
   margin: 10px 0 15px;
+  text-align: center;
 }
 
 p, ul {
@@ -136,8 +137,4 @@ a:active {
 .skills {
   background: #e91e63;
   color: white;
-}
-
-head:h1 {
-  text-align: center;
 }
