@@ -138,6 +138,6 @@ a:active {
   color: white;
 }
 
-head {
+head:h1 {
   text-align: center;
 }
